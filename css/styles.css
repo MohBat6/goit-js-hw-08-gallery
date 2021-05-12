@@ -144,7 +144,7 @@ body {
 
 .next-slide {
   top: 50%;
-  background-image: url('/images/right-arrow-svgrepo-com.svg');
+  background-image: url('./images/right-arrow-svgrepo-com.svg');
 }
 
 .lightbox__button:hover,
